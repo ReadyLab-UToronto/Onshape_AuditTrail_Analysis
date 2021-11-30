@@ -1,0 +1,124 @@
+,Event Time,Document,Tab,User,Description
+1,2021-07-13 16:04:05,BT_ID-03,N/A,rdlcad2021@gmail.com,Close document
+2,2021-07-13 16:04:05,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO closed by CAD_Study
+3,2021-07-13 16:03:44,BT_ID-03,Changes.pdf,rdlcad2021@gmail.com,Tab Changes.pdf of type BLOB closed by CAD_Study
+4,2021-07-13 16:03:44,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO opened by CAD_Study
+5,2021-07-13 16:03:30,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Update Part Metadata
+6,2021-07-13 16:03:29,BT_ID-03,Changes.pdf,rdlcad2021@gmail.com,Tab Changes.pdf of type BLOB opened by CAD_Study
+7,2021-07-13 16:03:29,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO closed by CAD_Study
+8,2021-07-13 16:03:29,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Update Part Metadata
+9,2021-07-13 16:03:25,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Commit add or edit of part studio feature
+10,2021-07-13 16:03:25,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Add or modify a sketch
+11,2021-07-13 16:03:25,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Edit : Angled Tab
+12,2021-07-13 16:03:24,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO opened by CAD_Study
+13,2021-07-13 16:03:24,BT_ID-03,Changes.pdf,rdlcad2021@gmail.com,Tab Changes.pdf of type BLOB closed by CAD_Study
+14,2021-07-13 16:03:20,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Update Part Metadata
+15,2021-07-13 16:03:20,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Update Part Metadata
+16,2021-07-13 16:03:20,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO closed by CAD_Study
+17,2021-07-13 16:03:20,BT_ID-03,Changes.pdf,rdlcad2021@gmail.com,Tab Changes.pdf of type BLOB opened by CAD_Study
+18,2021-07-13 16:03:12,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Start edit of part studio feature
+19,2021-07-13 16:03:08,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Add or modify a sketch
+20,2021-07-13 16:03:08,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Edit : Angled Tab
+21,2021-07-13 16:03:08,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Commit add or edit of part studio feature
+22,2021-07-13 16:03:01,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO opened by CAD_Study
+23,2021-07-13 16:03:01,BT_ID-03,Changes.pdf,rdlcad2021@gmail.com,Tab Changes.pdf of type BLOB closed by CAD_Study
+24,2021-07-13 16:02:58,BT_ID-03,Changes.pdf,rdlcad2021@gmail.com,Tab Changes.pdf of type BLOB opened by CAD_Study
+25,2021-07-13 16:02:58,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO closed by CAD_Study
+26,2021-07-13 16:02:51,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Start edit of part studio feature
+27,2021-07-13 16:02:45,BT_ID-03,Changes.pdf,rdlcad2021@gmail.com,Tab Changes.pdf of type BLOB closed by CAD_Study
+28,2021-07-13 16:02:45,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO opened by CAD_Study
+29,2021-07-13 16:02:32,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Update Part Metadata
+30,2021-07-13 16:02:31,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Update Part Metadata
+31,2021-07-13 16:02:31,BT_ID-03,Changes.pdf,rdlcad2021@gmail.com,Tab Changes.pdf of type BLOB opened by CAD_Study
+32,2021-07-13 16:02:31,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO closed by CAD_Study
+33,2021-07-13 16:02:28,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Edit : Top Flange Pattern
+34,2021-07-13 16:02:28,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Commit add or edit of part studio feature
+35,2021-07-13 16:02:21,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Start edit of part studio feature
+36,2021-07-13 16:02:20,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Add or modify a sketch
+37,2021-07-13 16:02:18,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Start edit of part studio feature
+38,2021-07-13 16:02:16,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Commit add or edit of part studio feature
+39,2021-07-13 16:02:16,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Edit : Top Flange
+40,2021-07-13 16:02:14,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Start edit of part studio feature
+41,2021-07-13 16:02:10,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO opened by CAD_Study
+42,2021-07-13 16:02:10,BT_ID-03,Changes.pdf,rdlcad2021@gmail.com,Tab Changes.pdf of type BLOB closed by CAD_Study
+43,2021-07-13 16:02:03,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Update Part Metadata
+44,2021-07-13 16:02:03,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO closed by CAD_Study
+45,2021-07-13 16:02:03,BT_ID-03,Changes.pdf,rdlcad2021@gmail.com,Tab Changes.pdf of type BLOB opened by CAD_Study
+46,2021-07-13 16:02:03,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Update Part Metadata
+47,2021-07-13 16:02:00,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Edit : Top Column
+48,2021-07-13 16:02:00,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Commit add or edit of part studio feature
+49,2021-07-13 16:01:55,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Start edit of part studio feature
+50,2021-07-13 16:01:49,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Commit add or edit of part studio feature
+51,2021-07-13 16:01:49,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Edit : Top Column Flanges
+52,2021-07-13 16:01:49,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Add or modify a sketch
+53,2021-07-13 16:01:47,BT_ID-03,Changes.pdf,rdlcad2021@gmail.com,Tab Changes.pdf of type BLOB closed by CAD_Study
+54,2021-07-13 16:01:47,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO opened by CAD_Study
+55,2021-07-13 16:01:37,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Update Part Metadata
+56,2021-07-13 16:01:37,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Update Part Metadata
+57,2021-07-13 16:01:36,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO closed by CAD_Study
+58,2021-07-13 16:01:36,BT_ID-03,Changes.pdf,rdlcad2021@gmail.com,Tab Changes.pdf of type BLOB opened by CAD_Study
+59,2021-07-13 16:01:32,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Start edit of part studio feature
+60,2021-07-13 16:01:22,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Edit : Top Column
+61,2021-07-13 16:01:22,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Add or modify a sketch
+62,2021-07-13 16:01:22,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Commit add or edit of part studio feature
+63,2021-07-13 16:01:21,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO opened by CAD_Study
+64,2021-07-13 16:01:21,BT_ID-03,Changes.pdf,rdlcad2021@gmail.com,Tab Changes.pdf of type BLOB closed by CAD_Study
+65,2021-07-13 16:01:13,BT_ID-03,Changes.pdf,rdlcad2021@gmail.com,Tab Changes.pdf of type BLOB opened by CAD_Study
+66,2021-07-13 16:01:13,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO closed by CAD_Study
+67,2021-07-13 16:01:08,BT_ID-03,Changes.pdf,rdlcad2021@gmail.com,Tab Changes.pdf of type BLOB closed by CAD_Study
+68,2021-07-13 16:01:08,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO opened by CAD_Study
+69,2021-07-13 16:01:05,BT_ID-03,Changes.pdf,rdlcad2021@gmail.com,Tab Changes.pdf of type BLOB opened by CAD_Study
+70,2021-07-13 16:01:05,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO closed by CAD_Study
+71,2021-07-13 16:01:01,BT_ID-03,Changes.pdf,rdlcad2021@gmail.com,Tab Changes.pdf of type BLOB closed by CAD_Study
+72,2021-07-13 16:01:01,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO opened by CAD_Study
+73,2021-07-13 16:00:58,BT_ID-03,Changes.pdf,rdlcad2021@gmail.com,Tab Changes.pdf of type BLOB opened by CAD_Study
+74,2021-07-13 16:00:58,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO closed by CAD_Study
+75,2021-07-13 16:00:54,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Start edit of part studio feature
+76,2021-07-13 16:00:50,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO opened by CAD_Study
+77,2021-07-13 16:00:50,BT_ID-03,Changes.pdf,rdlcad2021@gmail.com,Tab Changes.pdf of type BLOB closed by CAD_Study
+78,2021-07-13 16:00:31,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Update Part Metadata
+79,2021-07-13 16:00:30,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Update Part Metadata
+80,2021-07-13 16:00:30,BT_ID-03,Changes.pdf,rdlcad2021@gmail.com,Tab Changes.pdf of type BLOB opened by CAD_Study
+81,2021-07-13 16:00:30,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO closed by CAD_Study
+82,2021-07-13 16:00:27,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Edit : Small Flange
+83,2021-07-13 16:00:27,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Commit add or edit of part studio feature
+84,2021-07-13 16:00:24,BT_ID-03,Changes.pdf,rdlcad2021@gmail.com,Tab Changes.pdf of type BLOB closed by CAD_Study
+85,2021-07-13 16:00:24,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO opened by CAD_Study
+86,2021-07-13 16:00:23,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Update Part Metadata
+87,2021-07-13 16:00:23,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Update Part Metadata
+88,2021-07-13 16:00:22,BT_ID-03,Changes.pdf,rdlcad2021@gmail.com,Tab Changes.pdf of type BLOB opened by CAD_Study
+89,2021-07-13 16:00:22,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO closed by CAD_Study
+90,2021-07-13 16:00:19,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Start edit of part studio feature
+91,2021-07-13 16:00:18,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Add or modify a sketch
+92,2021-07-13 16:00:17,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Start edit of part studio feature
+93,2021-07-13 16:00:14,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Add or modify a sketch
+94,2021-07-13 16:00:14,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Commit add or edit of part studio feature
+95,2021-07-13 16:00:14,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Edit : Round Prof
+96,2021-07-13 16:00:13,BT_ID-03,Changes.pdf,rdlcad2021@gmail.com,Tab Changes.pdf of type BLOB closed by CAD_Study
+97,2021-07-13 16:00:13,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO opened by CAD_Study
+98,2021-07-13 16:00:11,BT_ID-03,Changes.pdf,rdlcad2021@gmail.com,Tab Changes.pdf of type BLOB opened by CAD_Study
+99,2021-07-13 16:00:11,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO closed by CAD_Study
+100,2021-07-13 16:00:00,BT_ID-03,Changes.pdf,rdlcad2021@gmail.com,Tab Changes.pdf of type BLOB closed by CAD_Study
+101,2021-07-13 16:00:00,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO opened by CAD_Study
+102,2021-07-13 15:59:57,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Update Part Metadata
+103,2021-07-13 15:59:57,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Update Part Metadata
+104,2021-07-13 15:59:56,BT_ID-03,Changes.pdf,rdlcad2021@gmail.com,Tab Changes.pdf of type BLOB opened by CAD_Study
+105,2021-07-13 15:59:56,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO closed by CAD_Study
+106,2021-07-13 15:59:55,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Start edit of part studio feature
+107,2021-07-13 15:59:54,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Edit : Large Flange
+108,2021-07-13 15:59:54,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Commit add or edit of part studio feature
+109,2021-07-13 15:59:50,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Start edit of part studio feature
+110,2021-07-13 15:59:49,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Start edit of part studio feature
+111,2021-07-13 15:59:45,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO opened by CAD_Study
+112,2021-07-13 15:59:45,BT_ID-03,Changes.pdf,rdlcad2021@gmail.com,Tab Changes.pdf of type BLOB closed by CAD_Study
+113,2021-07-13 15:59:43,BT_ID-03,Changes.pdf,rdlcad2021@gmail.com,Tab Changes.pdf of type BLOB opened by CAD_Study
+114,2021-07-13 15:59:43,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO closed by CAD_Study
+115,2021-07-13 15:59:39,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO opened by CAD_Study
+116,2021-07-13 15:59:39,BT_ID-03,Changes.pdf,rdlcad2021@gmail.com,Tab Changes.pdf of type BLOB closed by CAD_Study
+117,2021-07-13 15:59:30,BT_ID-03,Changes.pdf,rdlcad2021@gmail.com,Tab Changes.pdf of type BLOB opened by CAD_Study
+118,2021-07-13 15:59:30,BT_ID-03,Step 3.pdf,rdlcad2021@gmail.com,Tab Step 3.pdf of type BLOB closed by CAD_Study
+119,2021-07-13 15:59:30,BT_ID-03,Document as a whole,rdlcad2021@gmail.com,Moved tab Changes.pdf to position 2
+120,2021-07-13 15:59:28,BT_ID-03,Step 3.pdf,rdlcad2021@gmail.com,Tab Step 3.pdf of type BLOB opened by CAD_Study
+121,2021-07-13 15:59:28,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO closed by CAD_Study
+122,2021-07-13 15:59:24,BT_ID-03,Part Studio 1,rdlcad2021@gmail.com,Tab Part Studio 1 of type PARTSTUDIO opened by CAD_Study
+123,2021-07-13 15:59:22,BT_ID-03,N/A,rdlcad2021@gmail.com,Open document
